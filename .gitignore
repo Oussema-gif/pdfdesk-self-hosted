@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-release/
+coverage/
+.vite/
+.env
+.env.*
+!.env.example
+backend/config/app.php
+.DS_Store
+*.logfrontend/test-results/
+frontend/playwright-report/
