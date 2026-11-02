@@ -33,4 +33,4 @@ describe('output filenames', () => {
   it('zip', () => {
     expect(zipFileName()).toBe('pdfdesk-output.zip');
   });
-});
+}); 

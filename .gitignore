@@ -10,3 +10,10 @@ backend/config/app.php
 .DS_Store
 *.logfrontend/test-results/
 frontend/playwright-report/
+frontend/dist/
+frontend/test-results/
+frontend/playwright/.cache/
+*.log
+*.tsbuildinfo
+!backend/public/.htaccess
+!frontend/index.html
